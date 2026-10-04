@@ -169,3 +169,6 @@ npm run dev -- --host 127.0.0.1
 ## 🛡️ License
 Built for the JIG26_21 Accreditation Evidence Assistant Challenge.
 All synthetic college documents, schemas, and verification pipelines are developed for educational and institutional evaluation purposes.
+
+backned - https://nexus-backend-9o1f.onrender.com/
+frontend - https://accredia-frontend.onrender.com
